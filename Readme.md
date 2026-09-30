@@ -81,15 +81,6 @@ Python and pandas were used to perform the following tasks:
 - Create manufacturing performance visualisations.
 - Export a cleaned CSV file for Power BI.
 
-## Key Performance Indicators
-
-The analysis produced the following main KPIs:
-
-- **Total batches:** 15
-- **Average batch yield:** 86.11%
-- **QC passed batches:** 12
-- **QC failed batches:** 3
-- **QC pass rate:** 80%
 
 ## Power BI Dashboard
 
@@ -116,22 +107,6 @@ The slicers allow users to investigate manufacturing performance for individual 
 - Production yield varied between batches, products and production lines.
 - The process-parameter scatter plots make it possible to explore whether reactor temperature or pH is associated with yield.
 - Low-yield and failed batches can be investigated individually using the dashboard filters.
-
-## Technologies
-
-- Python
-- pandas
-- matplotlib
-- Jupyter Notebook
-- Power BI
-- Visual Studio Code
-
-## Limitations
-
-- The dataset is synthetic and does not represent an actual pharmaceutical manufacturing process.
-- The dataset contains only 15 batches.
-- Operating ranges were defined for demonstration and are not validated manufacturing specifications.
-- The project is intended to demonstrate a data-analysis workflow rather than support real batch-release decisions.
 
 ## Author
 
