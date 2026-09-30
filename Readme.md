@@ -136,4 +136,3 @@ The slicers allow users to investigate manufacturing performance for individual 
 ## Author
 
 **Angel HK**  
-Biotechnology Engineering student interested in bioprocessing, manufacturing analytics and scientific data analysis.
