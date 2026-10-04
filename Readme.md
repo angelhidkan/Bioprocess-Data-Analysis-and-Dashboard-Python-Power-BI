@@ -19,7 +19,7 @@ The project evaluates the yield, the process conditions and the quality-control 
 
 ## Project Objective
 
-A biopharmaceutical manufacturing process produces multiple batches under different operating conditions. Each batch contains process information, production results and quality-control outcomes.
+A biopharmaceutical manufacturing process produces 3 different products splited in 3 production lines under different operating conditions. Each batch contains process information, production results and quality-control outcomes.
 
 The objective of this project is to analyse batch data and answer the following questions:
 
@@ -105,7 +105,7 @@ The slicers allow users to investigate manufacturing performance for individual 
 - Twelve of the fifteen batches passed the overall QC assessment.
 - Three batches failed the overall QC assessment.
 - Production yield varied between batches, products and production lines.
-- The process-parameter scatter plots make it possible to explore whether reactor temperature or pH is associated with yield.
+- The yield-parameter scatter plots allows to explore at what reactor temperature or pH the yield is higher.
 - Low-yield and failed batches can be investigated individually using the dashboard filters.
 
 ## Author
